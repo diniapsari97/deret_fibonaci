@@ -1,0 +1,4 @@
+c:\users\dini apsari\documents\visual studio 2015\Projects\deret_fibonacci\deret_fibonacci\bin\Debug\deret_fibonacci.exe
+c:\users\dini apsari\documents\visual studio 2015\Projects\deret_fibonacci\deret_fibonacci\bin\Debug\deret_fibonacci.pdb
+c:\users\dini apsari\documents\visual studio 2015\Projects\deret_fibonacci\deret_fibonacci\obj\Debug\deret_fibonacci.exe
+c:\users\dini apsari\documents\visual studio 2015\Projects\deret_fibonacci\deret_fibonacci\obj\Debug\deret_fibonacci.pdb
